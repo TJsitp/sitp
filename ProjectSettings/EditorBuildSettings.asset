@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChinaMap.unity
+    guid: 3f1b9ea4d818f824892d9b5f1b2c6ced
+  - enabled: 1
+    path: Assets/Scenes/Taiji.unity
+    guid: cbb8ea778d2657549957f5917f25a3ad
+  - enabled: 1
+    path: Assets/Scenes/index.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
